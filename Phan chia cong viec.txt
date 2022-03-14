@@ -1,0 +1,18 @@
+Cong viec cua Huy:
+	Api quan ly khoa hoc:
+	- Thiet ke giao dien
+	- Lay danh sach khoa hoc
+	- Lay danh muc khoa hoc
+	- Lay khoa hoc theo danh muc
+	- Lay thong tin khoa hoc
+
+Cong viec cua Tam:
+	Api quan ly khoa hoc:
+	- Lay danh sach khoa hoc
+	- Them khoa hoc
+	- Xoa khoa hoc
+	Api quan ly nguoi dung:
+	- Dang nhap
+	- Lay danh sach nguoi dung
+	- Them nguoi dung
+	- Xoa nguoi dung
